@@ -1,0 +1,10 @@
+sql
+Creadores:
+-- CV (Nombre de pila)
+-- Identidad (Apellido materno)
+-- Mail (Gmail)
+-- Reside (Locación)
+Estatutos:
+- No se repiten frases
+- Se puede tener mas de un creador
+
