@@ -1,0 +1,11 @@
+hql
+Información 
+-Número (decimal, entero)
+-Descripción (ingrese,texto)
+-Contenido (nuevo)
+-Usuario registrado (Nombre, USA)
+-Identificador (Serie)
+-Asesor (Numeral)
+Estatutos
+- Se repite unicamente si falta
+- No hace falta varios
